@@ -1,0 +1,19 @@
+{
+  "name": "jlopezmx-logger-me",
+  "version": "1.0.0",
+  "description": "Winston based log implementation for development purposes",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo \"done\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal.github.com:jazlopez/logger-me.git"
+  },
+  "author": "Jaziel Lopez <jaziel.lopez@thermofisher.com>",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
